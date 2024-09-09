@@ -1,0 +1,35 @@
+494  git init
+  495  ls
+  496  ls -a
+  497  clear
+  498  git init
+  499  ls
+  500  ls -a
+  501  git init
+  502  ls
+  503  ls -a
+  504  git status
+  505  ls
+  506  python3 testing.py
+  507  ls
+  508  git status
+  509  git add file testing.py
+  510  git add testing.py
+  511  git status
+  512  git rm --cached testing.py
+  513  git status
+  514  git add .
+  515  git status
+  516  ls
+  517  rm .DS_Store
+  518  ls
+  519  git status
+  520  git commit -m "added testing files"
+  521  git status
+  522  rm testing.py
+  523  ls
+  524  git status
+  525  git restore testing.py
+  526  ls
+  527  git status
+  528  history
