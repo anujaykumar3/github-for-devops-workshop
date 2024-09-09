@@ -17,7 +17,7 @@
   510  git add testing.py
   511  git status
   512  git rm --cached testing.py
-  513  git status
+  513  git statusGIT 
   514  git add .
   515  git status
   516  ls
